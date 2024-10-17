@@ -1,0 +1,5 @@
+jetson_csi_stereo_ros
+/home/robot/catkin_ws/devel/.private/jetson_csi_stereo_ros/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/jetson_csi_stereo_ros/share/jetson_csi_stereo_ros/cmake/jetson_csi_stereo_rosConfig-version.cmake /home/robot/catkin_ws/devel/share/jetson_csi_stereo_ros/cmake/jetson_csi_stereo_rosConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/jetson_csi_stereo_ros/share/jetson_csi_stereo_ros/cmake/jetson_csi_stereo_rosConfig.cmake /home/robot/catkin_ws/devel/share/jetson_csi_stereo_ros/cmake/jetson_csi_stereo_rosConfig.cmake
+/home/robot/catkin_ws/devel/.private/jetson_csi_stereo_ros/lib/pkgconfig/jetson_csi_stereo_ros.pc /home/robot/catkin_ws/devel/lib/pkgconfig/jetson_csi_stereo_ros.pc

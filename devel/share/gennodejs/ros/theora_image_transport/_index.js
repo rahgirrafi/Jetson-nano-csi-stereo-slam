@@ -1,0 +1,1 @@
+/home/robot/catkin_ws/devel/.private/theora_image_transport/share/gennodejs/ros/theora_image_transport/_index.js

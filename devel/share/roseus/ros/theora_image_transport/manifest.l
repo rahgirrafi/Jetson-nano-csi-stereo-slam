@@ -1,0 +1,1 @@
+/home/robot/catkin_ws/devel/.private/theora_image_transport/share/roseus/ros/theora_image_transport/manifest.l

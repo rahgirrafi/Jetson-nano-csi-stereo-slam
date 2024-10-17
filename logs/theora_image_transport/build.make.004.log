@@ -1,0 +1,22 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 13%] Built target theora_image_transport_gencfg
+[ 13%] Built target std_msgs_generate_messages_cpp
+[ 13%] Built target std_msgs_generate_messages_py
+[ 13%] Built target std_msgs_generate_messages_nodejs
+[ 13%] Built target std_msgs_generate_messages_eus
+[ 13%] Built target _theora_image_transport_generate_messages_check_deps_Packet
+[ 20%] Built target theora_image_transport_generate_messages_lisp
+[ 26%] Built target theora_image_transport_generate_messages_nodejs
+[ 33%] Built target theora_image_transport_generate_messages_cpp
+[ 46%] Built target theora_image_transport_generate_messages_py
+[ 60%] Built target theora_image_transport_generate_messages_eus
+[ 60%] Built target theora_image_transport_gencpp
+[ 60%] Built target theora_image_transport_generate_messages
+[ 66%] [32mBuilding CXX object CMakeFiles/ogg_saver.dir/src/ogg_saver.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/theora_image_transport.dir/src/theora_publisher.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/theora_image_transport.dir/src/manifest.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/theora_image_transport.dir/src/theora_subscriber.cpp.o[0m
+[ 93%] [32m[1mLinking CXX executable /home/robot/catkin_ws/devel/.private/theora_image_transport/lib/theora_image_transport/ogg_saver[0m
+[ 93%] Built target ogg_saver
+[100%] [32m[1mLinking CXX shared library /home/robot/catkin_ws/devel/.private/theora_image_transport/lib/libtheora_image_transport.so[0m
+[100%] Built target theora_image_transport

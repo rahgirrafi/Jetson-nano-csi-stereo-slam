@@ -1,0 +1,16 @@
+Symlinking /home/robot/catkin_ws/devel/share/compressed_image_transport/docs/CompressedSubscriberConfig-usage.dox
+Symlinking /home/robot/catkin_ws/devel/share/compressed_image_transport/docs/CompressedSubscriberConfig.wikidoc
+Symlinking /home/robot/catkin_ws/devel/share/compressed_image_transport/docs/CompressedSubscriberConfig.dox
+Symlinking /home/robot/catkin_ws/devel/share/compressed_image_transport/docs/CompressedPublisherConfig.dox
+Symlinking /home/robot/catkin_ws/devel/share/compressed_image_transport/docs/CompressedPublisherConfig.wikidoc
+Symlinking /home/robot/catkin_ws/devel/share/compressed_image_transport/docs/CompressedPublisherConfig-usage.dox
+Symlinking /home/robot/catkin_ws/devel/share/compressed_image_transport/cmake/compressed_image_transportConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/compressed_image_transport/cmake/compressed_image_transportConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/lib/libcompressed_image_transport.so
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/compressed_image_transport.pc
+Symlinking /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/compressed_image_transport/__init__.py
+Symlinking /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/compressed_image_transport/cfg/CompressedPublisherConfig.py
+Symlinking /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/compressed_image_transport/cfg/CompressedSubscriberConfig.py
+Symlinking /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/compressed_image_transport/cfg/__init__.py
+Symlinking /home/robot/catkin_ws/devel/include/compressed_image_transport/CompressedSubscriberConfig.h
+Symlinking /home/robot/catkin_ws/devel/include/compressed_image_transport/CompressedPublisherConfig.h

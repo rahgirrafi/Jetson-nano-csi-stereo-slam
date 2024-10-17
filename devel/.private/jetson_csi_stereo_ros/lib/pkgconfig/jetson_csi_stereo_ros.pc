@@ -1,0 +1,8 @@
+prefix=/home/robot/catkin_ws/devel/.private/jetson_csi_stereo_ros
+
+Name: jetson_csi_stereo_ros
+Description: Description of jetson_csi_stereo_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

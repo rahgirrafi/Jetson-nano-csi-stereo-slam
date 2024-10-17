@@ -1,0 +1,1 @@
+/home/robot/catkin_ws/devel/.private/compressed_depth_image_transport/include/compressed_depth_image_transport/CompressedDepthPublisherConfig.h

@@ -1,0 +1,7 @@
+Symlinking /home/robot/catkin_ws/devel/share/gscam/cmake/gscamConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/gscam/cmake/gscamConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/lib/libgscam.so
+Symlinking /home/robot/catkin_ws/devel/lib/libGSCamNodelet.so
+Symlinking /home/robot/catkin_ws/devel/lib/gscam/gscam
+Symlinking /home/robot/catkin_ws/devel/lib/gscam/gscam_node
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/gscam.pc

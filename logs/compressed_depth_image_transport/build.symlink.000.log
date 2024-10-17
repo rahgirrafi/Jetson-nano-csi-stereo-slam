@@ -1,0 +1,12 @@
+Symlinking /home/robot/catkin_ws/devel/share/compressed_depth_image_transport/docs/CompressedDepthPublisherConfig-usage.dox
+Symlinking /home/robot/catkin_ws/devel/share/compressed_depth_image_transport/docs/CompressedDepthPublisherConfig.wikidoc
+Symlinking /home/robot/catkin_ws/devel/share/compressed_depth_image_transport/docs/CompressedDepthPublisherConfig.dox
+Symlinking /home/robot/catkin_ws/devel/share/compressed_depth_image_transport/cmake/compressed_depth_image_transportConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/compressed_depth_image_transport/cmake/compressed_depth_image_transportConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/lib/libcompressed_depth_image_transport_test.so
+Symlinking /home/robot/catkin_ws/devel/lib/libcompressed_depth_image_transport.so
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/compressed_depth_image_transport.pc
+Symlinking /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/compressed_depth_image_transport/__init__.py
+Symlinking /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/compressed_depth_image_transport/cfg/__init__.py
+Symlinking /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/compressed_depth_image_transport/cfg/CompressedDepthPublisherConfig.py
+Symlinking /home/robot/catkin_ws/devel/include/compressed_depth_image_transport/CompressedDepthPublisherConfig.h

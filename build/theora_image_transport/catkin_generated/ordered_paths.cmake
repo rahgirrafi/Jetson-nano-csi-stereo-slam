@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/robot/catkin_ws/devel/.private/cv_bridge/lib;/opt/ros/melodic/lib")

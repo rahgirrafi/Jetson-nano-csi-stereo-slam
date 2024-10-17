@@ -1,0 +1,8 @@
+Symlinking /home/robot/catkin_ws/devel/share/rqt_image_view/cmake/rqt_image_viewConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/rqt_image_view/cmake/rqt_image_viewConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/lib/librqt_image_view.so
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/rqt_image_view.pc
+Symlinking /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/rqt_image_view/__init__.py
+Symlinking /home/robot/catkin_ws/devel/bin/cmake.lock
+Symlinking /home/robot/catkin_ws/devel/bin/rqt_image_view
+Symlinking /home/robot/catkin_ws/devel/include/ui_image_view.h

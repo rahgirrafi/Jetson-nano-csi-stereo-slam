@@ -1,0 +1,1 @@
+/home/robot/catkin_ws/devel/.private/camera_sync/share/camera_sync/cmake/camera_syncConfig.cmake

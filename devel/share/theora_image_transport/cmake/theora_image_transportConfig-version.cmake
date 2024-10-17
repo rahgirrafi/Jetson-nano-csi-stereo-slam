@@ -1,0 +1,1 @@
+/home/robot/catkin_ws/devel/.private/theora_image_transport/share/theora_image_transport/cmake/theora_image_transportConfig-version.cmake

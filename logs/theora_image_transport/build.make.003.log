@@ -1,0 +1,16 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _theora_image_transport_generate_messages_check_deps_Packet
+[ 13%] Built target theora_image_transport_gencfg
+[ 13%] Built target std_msgs_generate_messages_lisp
+[ 13%] Built target std_msgs_generate_messages_py
+[ 13%] Built target std_msgs_generate_messages_nodejs
+[ 13%] Built target std_msgs_generate_messages_eus
+[ 20%] Built target theora_image_transport_generate_messages_cpp
+[ 26%] Built target theora_image_transport_generate_messages_lisp
+[ 40%] Built target theora_image_transport_generate_messages_py
+[ 46%] Built target theora_image_transport_generate_messages_nodejs
+[ 60%] Built target theora_image_transport_generate_messages_eus
+[ 60%] Built target theora_image_transport_gencpp
+[ 60%] Built target theora_image_transport_generate_messages
+[ 73%] Built target ogg_saver
+[100%] Built target theora_image_transport

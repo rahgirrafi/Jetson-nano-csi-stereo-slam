@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target rqt_image_view[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/rqt_image_view.dir/src/rqt_image_view/image_view.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/rqt_image_view.dir/include/rqt_image_view/moc_image_view.cpp.o[0m
+[ 37%] [32m[1mLinking CXX shared library /home/robot/catkin_ws/devel/.private/rqt_image_view/lib/librqt_image_view.so[0m
+[100%] Built target rqt_image_view

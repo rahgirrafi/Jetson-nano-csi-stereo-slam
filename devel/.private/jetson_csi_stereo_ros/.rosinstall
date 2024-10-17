@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robot/catkin_ws/devel/.private/jetson_csi_stereo_ros/setup.sh

@@ -1,0 +1,1 @@
+/home/robot/catkin_ws/devel/.private/theora_image_transport/share/common-lisp/ros/theora_image_transport/msg/theora_image_transport-msg.asd

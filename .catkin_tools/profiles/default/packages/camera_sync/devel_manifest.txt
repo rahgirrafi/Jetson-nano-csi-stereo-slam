@@ -1,0 +1,5 @@
+camera_sync
+/home/robot/catkin_ws/devel/.private/camera_sync/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/camera_sync/share/camera_sync/cmake/camera_syncConfig-version.cmake /home/robot/catkin_ws/devel/share/camera_sync/cmake/camera_syncConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/camera_sync/share/camera_sync/cmake/camera_syncConfig.cmake /home/robot/catkin_ws/devel/share/camera_sync/cmake/camera_syncConfig.cmake
+/home/robot/catkin_ws/devel/.private/camera_sync/lib/pkgconfig/camera_sync.pc /home/robot/catkin_ws/devel/lib/pkgconfig/camera_sync.pc

@@ -1,0 +1,1 @@
+/home/robot/catkin_ws/devel/.private/compressed_image_transport/share/compressed_image_transport/cmake/compressed_image_transportConfig.cmake

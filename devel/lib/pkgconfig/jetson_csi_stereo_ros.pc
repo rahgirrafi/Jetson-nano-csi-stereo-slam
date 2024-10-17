@@ -1,0 +1,1 @@
+/home/robot/catkin_ws/devel/.private/jetson_csi_stereo_ros/lib/pkgconfig/jetson_csi_stereo_ros.pc

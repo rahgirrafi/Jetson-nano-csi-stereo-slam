@@ -1,0 +1,8 @@
+prefix=/home/robot/catkin_ws/devel/.private/camera_sync
+
+Name: camera_sync
+Description: Description of camera_sync
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

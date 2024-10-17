@@ -1,0 +1,2 @@
+image_transport_plugins/image_transport_plugins
+/home/robot/catkin_ws/devel/.private/image_transport_plugins/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
